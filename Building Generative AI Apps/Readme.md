@@ -23,3 +23,10 @@ This project demonstrates how to build a simple web application using **Streamli
 ![Screenshot 2025-01-03 011933](https://github.com/user-attachments/assets/ba78752d-3687-4ffd-96b9-b9199b017f30)
 
 ![Screenshot 2025-01-03 011950](https://github.com/user-attachments/assets/7b6d5e60-dec8-46da-80dc-ddc41ea07590)
+
+## Language Transalator 
+![Screenshot 2025-01-03 013657](https://github.com/user-attachments/assets/af7dc58e-caf6-4e9f-8555-2afd5ef3fa92)
+
+
+#### Reference 
+https://youtu.be/VvpuGpXOYrQ?si=YiEyG5RRHDGjtvO8
